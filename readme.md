@@ -10,7 +10,7 @@ eBay-clone is a meticulously designed eBay-inspired website that reimagines the 
 - Validation: Validate data of register.
 - Product Listings: Browse through an array of product listings, each featuring images and detailed descriptions.
 - Cart: Add your products to the cart and get the total price of all products.
--  Search for Accounts.
+- Search for Products.
 - Responsive Design.
 
 🔧 Tech Stack: -HTML, CSS, Bootstrap, and JavaScript.
