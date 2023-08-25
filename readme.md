@@ -6,7 +6,7 @@ Welcome to eBay-clone, an ambitious front-end project that emulates the essence 
 eBay-clone is a meticulously designed eBay-inspired website that reimagines the experience of online shopping. With a strong emphasis on user interface and interactive design, this project offers a close simulation of some of eBay's key features.
 
 🛒 Key Features:
-- User Profiles: Create accounts, and manage personal information.
+- User Authentication: Create an account, log in securely, and manage your profile.
 - Validation: Validate data of register.
 - Product Listings: Browse through an array of product listings, each featuring images and detailed descriptions.
 - Cart: Add your products to the cart and get the total price of all products.
